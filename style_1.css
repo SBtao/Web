@@ -1,6 +1,11 @@
-h4{
-    margin-bottom: 10px;
+body {
+    height: 710px;
+    width: 900px;
 }
-body{
-    background-color: brown;
+.key {
+    font-weight: bold;
+    padding-right: 10px;
+}
+.value {
+    padding-right: 70px;
 }
